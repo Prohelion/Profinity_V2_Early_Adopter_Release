@@ -11,7 +11,7 @@ To test the application, run the PET Profile in Profinity and use the CAN Log Re
     <td width="50%">
       <img src="assets/login-screen-shot.png" alt="Login Screen" width="100%">
       <p align="center"><strong>Login Screen</strong></p>
-      <p align="center">Secure authentication interface for accessing the vehicle dashboard</p>
+      <p align="center">Login to access the vehicle dashboard</p>
     </td>
     <td width="50%">
       <img src="assets/dashboard-screen-shot.png" alt="Dashboard Screen" width="100%">

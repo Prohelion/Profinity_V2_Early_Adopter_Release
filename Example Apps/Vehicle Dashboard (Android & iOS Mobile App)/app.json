@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Profinity Demo",
-    "slug": "Profinity_Demo",
+    "name": "Profinity App Demo",
+    "slug": "Profinity_App_Demo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
