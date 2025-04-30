@@ -4,6 +4,16 @@ This is an example mobile application demonstrating how to connect to and use Pr
 
 To test the application, run the PET Profile in Profinity and use the CAN Log Replayer to replay the PET Log for a set of demo data.
 
+## App Screenshots
+
+### Login Screen
+![Login Screen](assets/login-screen-shot.png)
+The login screen provides a secure authentication interface for users to access the vehicle dashboard.
+
+### Dashboard Screen
+![Dashboard Screen](assets/dashboard-screen-shot.png)
+The dashboard displays real-time vehicle data and status information from the Profinity APIs.
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -54,9 +64,9 @@ yarn install
 
 ```
 src/
-├── assets/           # Static assets (images, fonts, etc.)
-├── components/       # Reusable UI components
-├── constants/        # Application constants and configuration
+├── assets/          # Static assets (images, fonts, etc.)
+├── components/      # Reusable UI components
+├── constants/       # Application constants and configuration
 ├── hooks/           # Custom React hooks
 ├── screens/         # Screen components
 ├── services/        # API and other services
