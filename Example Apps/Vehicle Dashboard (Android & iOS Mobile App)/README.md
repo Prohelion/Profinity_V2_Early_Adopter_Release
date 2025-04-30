@@ -6,13 +6,20 @@ To test the application, run the PET Profile in Profinity and use the CAN Log Re
 
 ## App Screenshots
 
-### Login Screen
-![Login Screen](assets/login-screen-shot.png)
-The login screen provides a secure authentication interface for users to access the vehicle dashboard.
-
-### Dashboard Screen
-![Dashboard Screen](assets/dashboard-screen-shot.png)
-The dashboard displays real-time vehicle data and status information from the Profinity APIs.
+<table>
+  <tr>
+    <td width="50%">
+      <img src="assets/login-screen-shot.png" alt="Login Screen" width="100%">
+      <p align="center"><strong>Login Screen</strong></p>
+      <p align="center">Secure authentication interface for accessing the vehicle dashboard</p>
+    </td>
+    <td width="50%">
+      <img src="assets/dashboard-screen-shot.png" alt="Dashboard Screen" width="100%">
+      <p align="center"><strong>Dashboard Screen</strong></p>
+      <p align="center">Real-time vehicle data and status information</p>
+    </td>
+  </tr>
+</table>
 
 ## Prerequisites
 
