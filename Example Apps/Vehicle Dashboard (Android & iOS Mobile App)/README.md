@@ -155,8 +155,8 @@ For more information about EAS Build, visit: https://docs.expo.dev/build/setup/
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 ## Support
 
-For support, please contact Prohelion Support via our website at www.prohelion.com
+For support, please contact Prohelion Support via our website at [www.prohelion.com](https://www.prohelion.com) 

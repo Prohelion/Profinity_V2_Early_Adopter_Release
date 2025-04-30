@@ -115,8 +115,8 @@ The build files will be created in the `build` directory.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 ## Support
 
-For support, please contact Prohelion Support via our website at www.prohelion.com
+For support, please contact Prohelion Support via our website at [www.prohelion.com](https://www.prohelion.com) 
