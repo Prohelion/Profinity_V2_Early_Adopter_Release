@@ -1,11 +1,13 @@
 # Profinity API Example Applications
 
-This repository contains several example applications that demonstrate the integration capabilities of the Profinity API:
+This repository contains several example applications that demonstrate the integration capabilities of the Profinity API and how you can use these APIs to develop custom website, mobile applications or do data science using Profinity as your back end datasource.
 
 1. **Battery Charging Station (Web Application)**
 2. **Vehicle Dashboard (Mobile Application)**
 3. **Matlab Data Science using Prohelion BMS (Matlab/Octave Example)**
 4. **Python Data Science using Prohelion BMS (Python Example)**
+
+All of these examples have been developed to use data from the supplied example PET Profile.  To get examples working load the PET Profile and reply the Example PET Can Log, putting the log in replay mode will keep the example CAN running.
 
 ## Battery Charging Station (Web Application)
 
@@ -55,6 +57,10 @@ A Matlab/Octave script that demonstrates how to authenticate with the Prohelion 
 - Prompts for server URL, username, and password
 - Plots cell voltages for each CMU
 
+**Example Output:**
+
+![Matlab Example Cell Voltage Plot](Matlab%20Data%20Science%20using%20Prohelion%20BMS/GraphExample.png)
+
 ## Requirements for Matlab Data Science using Prohelion BMS
 
 - This example requires **GNU Octave 10.0 or later** for full compatibility with web APIs (such as webwrite and webread with JSON payloads).
@@ -73,6 +79,10 @@ A Python script that demonstrates how to authenticate with the Prohelion API, re
 - Uses requests and matplotlib
 - Prompts for server URL, username, and password
 - Plots cell voltages for each CMU
+
+**Example Output:**
+
+![Python Example Cell Voltage Plot](Python%20Data%20Science%20using%20Prohelion%20BMS/GraphExample.png)
 
 [View detailed documentation](Python%20Data%20Science%20using%20Prohelion%20BMS/README.md)
 
