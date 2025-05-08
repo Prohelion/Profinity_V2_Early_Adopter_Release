@@ -13,6 +13,26 @@ Profinity V2 is Prohelion's comprehensive CAN bus management platform, designed 
 - Role-based access control and security (V2 only)
 - Advanced data logging and integration options
 
+## Download and Install
+
+### Windows
+
+| Installer | Documentation |
+| --------- | ------------- |
+| [Download Profinity V2 Early Adopter Release Installer](https://github.com/Prohelion/Profinity_V2_Early_Adopter_Release/releases/latest/download/Profinity.Install.msi) | [Windows Installation Documentation](https://docs.prohelion.com/Profinity/Profinity_Version2/Installation/Windows_Installation.html) |
+
+### Native Unix / macOS:
+
+| Installer | Documentation |
+| --------- | ------------- |
+| [Download Profinity V2 Early Adopter Release Zip](https://github.com/Prohelion/Profinity_V2_Early_Adopter_Release/releases/latest/download/Profinity.zip) | [Native macOS Installation Documentation](https://docs.prohelion.com/Profinity/Profinity_Version2/Installation/Zip_Installation.html) |
+
+### Docker
+
+| Documentation |
+| ------------- |
+| [Docker Installation Documentation](https://docs.prohelion.com/Profinity/Profinity_Version2/Installation/Docker_Installation.html) |
+
 ## Example Profinity Extensions
 
 A set of example applications is included to help you get started with Profinity V2. These cover web, mobile, and data science use cases, demonstrating how to integrate with the Profinity API for real-time monitoring, data analysis, and custom solutions. 
