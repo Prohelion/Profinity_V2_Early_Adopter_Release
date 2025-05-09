@@ -112,7 +112,7 @@ Additional requirements for each application:
   - For Android development: Android Studio
 
 - **Matlab Data Science using Prohelion BMS:**
-  - Matlab (R2018b or later) or GNU Octave (v5.2.0 or later)
+  - Matlab (R2018b or later) or GNU Octave (v10.0.0 or later)
 
 - **Python Data Science using Prohelion BMS:**
   - Python 3.7 or later
